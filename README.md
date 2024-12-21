@@ -1,0 +1,1 @@
+This repository contains a simple Tcl procedure that demonstrates an issue related to early returns within conditional statements. The bug involves a scenario where the proc unexpectedly terminates prematurely. The solution showcases how to avoid this issue using a more robust approach.
